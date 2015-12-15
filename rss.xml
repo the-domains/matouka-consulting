@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Matouka Consulting]]></title>
         <description><![CDATA[Matouka Consulting]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/matouka-consulting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 18:35:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Dec 2015 18:53:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/matouka-consulting/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Matouka Consulting]]></title>
             <description><![CDATA[<article><h1>Matouka Consulting</h1><p>Matouka Consulting is an independent consulting agency providing top-tier environmental business solutions.</p></article>]]></description>
-            <link>undefinedmatouka-consulting/index.html</link>
+            <link>https://thegrid.ai/matouka-consulting/matouka-consulting/index.html</link>
             <guid isPermaLink="false">7194cfe9-11c1-4056-98b9-cc5144ff8896</guid>
             <pubDate>Tue, 15 Dec 2015 18:35:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Matouka Consulting provides environmental risk, policy, and decision analysis based on political and economic theory, and statistical modeling.</p>]]></description>
+            <link>https://thegrid.ai/matouka-consulting/1a7afc5e-88ab-4e28-b126-ac6b4060bdb9/index.html</link>
+            <guid isPermaLink="false">1a7afc5e-88ab-4e28-b126-ac6b4060bdb9</guid>
+            <pubDate>Tue, 15 Dec 2015 18:53:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
