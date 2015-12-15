@@ -4,8 +4,15 @@
         <description><![CDATA[Matouka Consulting]]></description>
         <link>https://thegrid.ai/matouka-consulting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 19:43:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2015 19:43:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/matouka-consulting/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Services]]></title>
+            <description><![CDATA[<article><h1>Services</h1><p>Matouka Consulting provides environmental risk, policy, and decision analysis based on political and economic theory, and statistical modeling.</p></article>]]></description>
+            <link>https://thegrid.ai/matouka-consulting/services/index.html</link>
+            <guid isPermaLink="false">1a7afc5e-88ab-4e28-b126-ac6b4060bdb9</guid>
+            <pubDate>Tue, 15 Dec 2015 19:43:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Matouka Consulting]]></title>
             <description><![CDATA[<article><h1>Matouka Consulting</h1><p>Matouka Consulting is an independent consulting agency providing top-tier environmental business solutions.</p></article>]]></description>
