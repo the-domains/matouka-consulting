@@ -1,14 +1,29 @@
+name: Matouka Consulting
+favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.1096882
+title: Matouka Consulting
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  lightness: 0.606383
-  brandStrength: 0.4212766
-  saturation: 0.3106383
-  rhythmicContrast: 0.1669174
   brandColors:
     - '#FFFFFF'
     - '#A1CD4D'
     - '#0293BE'
     - '#BDD888'
     - '#BDE8FC'
-name: Matouka Consulting
+  brandStrength: 0.4212766
+  lightness: 0.606383
+  saturation: 0.3106383
+  rhythmicContrast: 0.1669174
+purpose: []
